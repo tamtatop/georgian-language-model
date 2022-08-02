@@ -1,8 +1,3 @@
-### Sorry for breaking upload rules. I only noticed it at the last minutes and there are too many things to change..
-* `data/` was big so we provided script to download rest of it.
-* Instead of `notebooks/` our notebooks are in root folder.
-* Instead of `resources/` our trained models are inside `data/` and `polished/`
-
 ### Info
 * Use `env.yml` to create identical conda env to us.
 * Unfortunately, since we had a comfort of azure GPU instance we did not try to run these notebooks on 
