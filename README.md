@@ -1,3 +1,5 @@
+see report.pdf for details
+
 ### Info
 * Use `env.yml` to create identical conda env to us.
 * Unfortunately, since we had a comfort of azure GPU instance we did not try to run these notebooks on 
